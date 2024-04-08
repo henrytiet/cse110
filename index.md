@@ -1,7 +1,14 @@
 ![image](https://github.com/henrytiet/cse110/assets/97487846/199eb50b-e3a5-4461-8582-b1ace92dd24d)
 # Henry Tiet's Playground
 
-TODO:
+## Table of Contents:
+[Todo](https://github.com/henrytiet/cse110/edit/main/index.md#todo)
+
+[Text Testing](https://github.com/henrytiet/cse110/edit/main/index.md#text-testing)
+
+[Links](https://github.com/henrytiet/cse110/edit/main/index.md#links)
+
+## TODO:
 - [x] Pictures
 - [x] Headings
 - [x] Styling text
