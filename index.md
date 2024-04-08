@@ -15,7 +15,7 @@
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
-- [ ] Section links
+- [x] Section links
 - [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [ ] Ordered and Unordered Lists
 - [x] Task lists
@@ -35,3 +35,4 @@ My favorite command is `ssh`
 ## Links
 
 Check out my [LinkedIn](https://linkedin.com/in/henry-tiet)
+Be sure to read my [README.md](README.md)
