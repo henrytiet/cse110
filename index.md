@@ -7,7 +7,7 @@ TODO:
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
-- [ ] External Links
+- [x] External Links
 - [ ] Section links
 - [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [ ] Ordered and Unordered Lists
@@ -23,7 +23,7 @@ Bye<sup>bye</sup>
 
 >I have a dream
 
-My favorite command is 'ssh'
+My favorite command is `ssh`
 
 ## Links
 
