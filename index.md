@@ -2,13 +2,14 @@
 # Henry Tiet's Playground
 
 ## Table of Contents:
-[Todo](https://github.com/henrytiet/cse110/blob/main/index.md#todo)
+[Lists](https://github.com/henrytiet/cse110/blob/main/index.md#lists)
 
 [Text Testing](https://github.com/henrytiet/cse110/blob/main/index.md#text-testing)
 
 [Links](https://github.com/henrytiet/cse110/blob/main/index.md#links)
 
-## TODO:
+## Lists:
+TODO:
 - [x] Pictures
 - [x] Headings
 - [x] Styling text
