@@ -27,4 +27,4 @@ My favorite command is 'ssh'
 
 ## Links
 
-Check out my [LinkedIn](linkedin.com/in/henry-tiet)
+Check out my [LinkedIn](https://linkedin.com/in/henry-tiet)
