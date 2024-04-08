@@ -17,12 +17,13 @@
 - [x] External Links
 - [x] Section links
 - [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-- [ ] Ordered and Unordered Lists
+- [x] Ordered and Unordered Lists
 - [x] Task lists
 
 1. Complete To Do List
 2. Publish through Github Pages
-   * check Canvas for instructions
+  * check Canvas
+  * [Instructions](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 3. Submit to Gradescope
 
 ## Text Testing
