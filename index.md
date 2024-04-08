@@ -22,9 +22,9 @@
 
 1. Complete To Do List
 2. Publish through Github Pages
-  * check Canvas
-  * [Instructions](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-3. Submit to Gradescope
+   * Check canvas
+   * [Instructions](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+4. Submit to Gradescope
 
 ## Text Testing
 **BOLD**
