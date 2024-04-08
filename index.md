@@ -2,7 +2,7 @@
 # Henry Tiet's Playground
 
 ## Table of Contents:
-[Todo](https://github.com/henrytiet/cse110/main/index.md#todo)
+[Todo](https://github.com/henrytiet/cse110/blob/main/index.md#todo)
 
 [Text Testing](https://github.com/henrytiet/cse110/main/index.md#text-testing)
 
